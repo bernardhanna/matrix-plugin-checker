@@ -22,7 +22,7 @@ function register_my_custom_submenu_page() {
     add_submenu_page(
         'tools.php', // Parent menu slug
         'Plugin Checker', // Page title
-        'Plugin List by Last Updated on Wordpress Repo', // Menu title
+        'Matrix Plugin Checker', // Menu title
         'manage_options', // Capability
         'plugin_list_by_update_date', // Menu slug
         'display_plugin_list' // Function to display content
