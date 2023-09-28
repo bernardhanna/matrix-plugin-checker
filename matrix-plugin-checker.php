@@ -7,7 +7,7 @@
  */
 
 /**
- * Plugin Name: Plugin List by Update Date
+ * Plugin Name: Matrix Plugin Checker
  * Description: Lists all installed plugins sorted by last update date.
  * Version: 1.0
  * Author: Bernard Hanna
