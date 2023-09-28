@@ -7,6 +7,6 @@ Copy this file to it
 
 Go to tools>Plugin Checker
 
-Clcik Run Checker Button
+Click Run Checker Button
 
 Give it a moment to display the list
